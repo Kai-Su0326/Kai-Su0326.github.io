@@ -12,11 +12,9 @@ a:link{
     color: blue;
 }
 
-
 a:hover{
     color: red;
 }
-
 
 .link{
     font-style: italic;
