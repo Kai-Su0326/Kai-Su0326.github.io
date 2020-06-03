@@ -1,0 +1,27 @@
+.content{
+    max-width: 1000px;
+    margin: auto;
+}
+
+h1{
+    padding-top: 30px;
+    font-size: 40px;
+}
+
+a:link{
+    color: blue;
+}
+
+
+a:hover{
+    color: red;
+}
+
+
+.link{
+    font-style: italic;
+    background-color: burlywood;
+    font-size: 20px;
+    margin-top: 20px;
+
+}
